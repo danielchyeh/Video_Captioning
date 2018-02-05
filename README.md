@@ -13,7 +13,7 @@ Link: https://drive.google.com/file/d/0B18IKlS3niGFNlBoaHJTY3NXUkE/view (provide
 [data dir] should be "./MLDS_hw2_data" (dataset under main folder), [output filename] should be "sample_output_testset.txt"
 
 
-Peer Review: If you want to do peer review in class
+4. (EXTRA) Peer Review: If you want to do peer review in class
 ```
 ./hw2_seq2seqPR.sh [data dir] [output filename] [peer review filename]
 ```
