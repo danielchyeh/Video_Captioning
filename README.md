@@ -1,5 +1,6 @@
 # Video-Captioning
 MLDS2017 Project2
+Project Link: https://www.csie.ntu.edu.tw/~yvchen/f106-adl/A2
 ## Quick start
 1. Download MSVD dataset : 1450 videos for training and 100 videos for testing 
 Link: https://drive.google.com/file/d/0B18IKlS3niGFNlBoaHJTY3NXUkE/view (provided by MLDS2017) and put MSVD dataset under video-captioning folder
