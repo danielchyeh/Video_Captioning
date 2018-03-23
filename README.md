@@ -18,4 +18,6 @@ Link: https://drive.google.com/file/d/0B18IKlS3niGFNlBoaHJTY3NXUkE/view (provide
 ./hw2_seq2seqPR.sh [data dir] [output filename] [peer review filename]
 ```
 [data dir] should be "./MLDS_hw2_data" (dataset under main folder), [output filename] should be "sample_output_testset.txt", and [peer review filename] is "sample_output_peer_review.txt".
-## Result
+## Model Architecture: S2VT
+S2VT seq2seq model is used in the task
+![image](https://github.com/danielchyeh/Video_Captioning/blob/master/assets/S2VT.png)
