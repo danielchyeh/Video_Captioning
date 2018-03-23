@@ -21,3 +21,6 @@ Link: https://drive.google.com/file/d/0B18IKlS3niGFNlBoaHJTY3NXUkE/view (provide
 ## Model Architecture: S2VT
 S2VT seq2seq model is used in the task
 ![image](https://github.com/danielchyeh/Video_Captioning/blob/master/assets/S2VT.png)
+## Demo Result
+![image](https://github.com/danielchyeh/Video_Captioning/blob/master/assets/dancing.gif)
+Generated Caption: a man is dancing.
