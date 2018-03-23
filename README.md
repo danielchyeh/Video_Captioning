@@ -1,4 +1,4 @@
-# Video-Captioning
+# Video_Captioning
 MLDS2017 Project2
 
 Project Link: https://www.csie.ntu.edu.tw/~yvchen/f106-adl/A2
