@@ -12,9 +12,9 @@ Link: https://drive.google.com/file/d/0B18IKlS3niGFNlBoaHJTY3NXUkE/view (provide
 ```
 ./hw2_seq2seq.sh [data dir] [output filename]
 ```
-  [data dir] should be "./MLDS_hw2_data" (dataset under main folder)
+    [data dir] should be "./MLDS_hw2_data" (dataset under main folder)
 
-  [output filename] should be "testing_output.txt"
+     [output filename] should be "testing_output.txt"
 
 
 4. (EXTRA) Peer Review: If you want to do peer review in class, run the shell script below
