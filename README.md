@@ -1,5 +1,5 @@
 # Video_Captioning
-MLDS2017 Project2
+S2VT-seq2seq-video-captioning-attention
 
 Project Link: https://www.csie.ntu.edu.tw/~yvchen/f106-adl/A2
 ## Quick start
