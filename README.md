@@ -33,5 +33,5 @@ S2VT seq2seq model is used in the task<br><br>
 Generated Caption: a man is dancing.
 
 ## References
-- [paarthneekhara/text-to-image](https://github.com/wchliao/MLDS2017)
+- [wchliao/MLDS2017](https://github.com/wchliao/MLDS2017)
 
