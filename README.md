@@ -24,7 +24,7 @@ Usage for training: modify mode = 0 (line 230 in s2vt_predict.py)<br><br>
 ```
 [data dir] should be "./MLDS_hw2_data" (dataset under main folder), [output filename] should be "sample_output_testset.txt", and [peer review filename] is "sample_output_peer_review.txt".
 ## Model Architecture: S2VT
-S2VT seq2seq model is used in the task<br>
+S2VT seq2seq model is used in the task<br><br>
 ![image](https://github.com/danielchyeh/Video_Captioning/blob/master/assets/S2VT.png)
 ## Demo Result
 ![image](https://github.com/danielchyeh/Video_Captioning/blob/master/assets/dancing.gif)
