@@ -10,19 +10,19 @@ Link: https://drive.google.com/file/d/0B18IKlS3niGFNlBoaHJTY3NXUkE/view (provide
 
 3. Run the shell script
 ```
-./hw2_seq2seq.sh [data dir] [output filename]
+./s2vt_predict.sh [data dir] [output filename]
 ```
     
-[data dir] should be "./MLDS_hw2_data" (dataset under main folder), [output filename] should be "testing_output.txt"
+[data dir] should be "./MLDS_hw2_data" (dataset under main folder), [output filename] should be "./testing_output.txt"
 
 Usage for training: modify mode = 0 (line 230 in s2vt_predict.py)<br><br>
 
 
 4. (EXTRA) Peer Review: If you want to do peer review in class, run the shell script below
 ```
-./hw2_seq2seqPR.sh [data dir] [output filename] [peer review filename]
+./s2vt_predict.sh [data dir] [output filename] [peer review filename]
 ```
-[data dir] should be "./MLDS_hw2_data" (dataset under main folder), [output filename] should be "sample_output_testset.txt", and [peer review filename] is "sample_output_peer_review.txt".
+[data dir] should be "./MLDS_hw2_data" (dataset under main folder), [output filename] should be "testing_output.txt", and [peer review filename] is "sample_output_peer_review.txt".
 ## Model Architecture: S2VT
 S2VT seq2seq model is used in the task<br><br>
 ![image](https://github.com/danielchyeh/Video_Captioning/blob/master/assets/S2VT.png)
