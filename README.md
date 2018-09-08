@@ -31,3 +31,7 @@ S2VT seq2seq model is used in the task<br><br>
 ![image](https://github.com/danielchyeh/Video_Captioning/blob/master/assets/dancing.gif)
 
 Generated Caption: a man is dancing.
+
+## References
+- [paarthneekhara/text-to-image](https://github.com/wchliao/MLDS2017)
+
