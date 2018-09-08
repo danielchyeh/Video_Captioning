@@ -1,4 +1,4 @@
-# Video_Captioning
+# Video_Captioning with attention in Tensorflow
 S2VT-seq2seq-video-captioning-attention
 
 Project Link: https://www.csie.ntu.edu.tw/~yvchen/f106-adl/A2
