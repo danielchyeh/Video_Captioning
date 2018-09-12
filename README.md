@@ -2,6 +2,11 @@
 S2VT-seq2seq-video-captioning-attention
 
 Project Link: https://www.csie.ntu.edu.tw/~yvchen/f106-adl/A2
+
+## Model Architecture: S2VT
+S2VT seq2seq model is used in the task<br><br>
+![image](https://github.com/danielchyeh/Video_Captioning/blob/master/assets/S2VT.png)
+
 ## Quick start
 1. Download MSVD dataset : 1450 videos for training and 100 videos for testing 
 Link: https://drive.google.com/file/d/0B18IKlS3niGFNlBoaHJTY3NXUkE/view (provided by MLDS2017) and put MSVD dataset under video-captioning folder
@@ -24,9 +29,7 @@ Usage for training: modify mode = 0 (line 230 in s2vt_predict.py)<br><br>
 ```
 Usage for peer review part: unblock line 19 in s2vt_predict.py (argv[3]), and modify peer_flag = 1 (line 373) 
 [data dir] should be "./MLDS_hw2_data" (dataset under main folder), [output filename] should be "testing_output.txt", and [peer review filename] is "sample_output_peer_review.txt".
-## Model Architecture: S2VT
-S2VT seq2seq model is used in the task<br><br>
-![image](https://github.com/danielchyeh/Video_Captioning/blob/master/assets/S2VT.png)
+
 ## Demo Result
 ![image](https://github.com/danielchyeh/Video_Captioning/blob/master/assets/dancing.gif)
 
